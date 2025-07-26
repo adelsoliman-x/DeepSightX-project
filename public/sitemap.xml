@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- الصفحة الرئيسية -->
+  <url>
+    <loc>https://www.deepsightx.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.deepsightx.com/en/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.deepsightx.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.deepsightx.com/de/" />
+  </url>
+
+  <!-- الخدمات -->
+  <url>
+    <loc>https://www.deepsightx.com/en/services</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.deepsightx.com/en/services" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.deepsightx.com/ar/services" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.deepsightx.com/de/services" />
+  </url>
+
+  <!-- التواصل -->
+  <url>
+    <loc>https://www.deepsightx.com/en/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.deepsightx.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.deepsightx.com/ar/contact" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.deepsightx.com/de/contact" />
+  </url>
+
+  <!-- البورتفوليو -->
+  <url>
+    <loc>https://www.deepsightx.com/en/portfolio</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.deepsightx.com/en/portfolio" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.deepsightx.com/ar/portfolio" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.deepsightx.com/de/portfolio" />
+  </url>
+</urlset>

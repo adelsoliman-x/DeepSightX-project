@@ -1,0 +1,294 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Our Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact Us",
+    "admin": "Admin"
+  },
+  "hero": {
+    "title": "AI-Powered Web Solutions",
+    "subtitle": "Transforming Businesses with Intelligent Technology",
+    "description": "DeepSightX delivers cutting-edge artificial intelligence solutions, custom AI-enhanced web platforms, and smart integrations that drive innovation and growth for businesses worldwide.",
+    "cta": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "home": {
+    "whyChoose": "Why Choose DeepSightX?",
+    "whyChooseDesc": "We combine cutting-edge technology with industry expertise to deliver exceptional results.",
+    "features": {
+      "fast": "Fast Implementation",
+      "fastDesc": "Quick deployment of AI solutions with minimal disruption to your workflow.",
+      "secure": "Secure & Reliable",
+      "secureDesc": "Enterprise-grade security and reliability for your critical business operations.",
+      "advanced": "Advanced AI",
+      "advancedDesc": "Cutting-edge artificial intelligence technology tailored to your needs."
+    },
+    "stats": {
+      "projects": "Projects Completed",
+      "clients": "Happy Clients",
+      "rate": "Success Rate",
+      "support": "Support Available"
+    },
+    "cta": {
+      "title": "Ready to Transform Your Business?",
+      "desc": "Join hundreds of companies that trust DeepSightX for their AI transformation journey.",
+      "button": "Start Your Project"
+    }
+  },
+  "meta": {
+  "home": {
+    "title": "AI-Powered Software Solutions",
+    "description": "DeepSightX delivers cutting-edge software and AI services for businesses worldwide."
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Learn more about DeepSightX, our mission, vision, and the team driving innovation in AI-powered software."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Get in touch with DeepSightX to discuss your AI-driven software solutions and business needs."
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "Explore DeepSightX's AI-powered services, from custom software to intelligent dashboards and consulting."
+  },
+   "portfolio": {
+    "title": "Our Projects",
+    "description": "Discover how DeepSightX has delivered intelligent solutions across industries like education, finance, healthcare, and more."
+  }
+
+
+
+},
+
+  "about": {
+    "title": "About DeepSightX",
+    "subtitle": "Leading the Future of AI Innovation",
+    "description": "We are a forward-thinking technology company specializing in artificial intelligence solutions that transform how businesses operate. Our team of experts combines deep technical knowledge with industry insights to deliver powerful, scalable solutions.",
+    "mission": "Our Mission",
+    "missionText": "To democratize AI technology and make it accessible to businesses of all sizes, enabling them to harness the power of artificial intelligence for growth and innovation.",
+    "vision": "Our Vision",
+    "visionText": "To be the global leader in AI-powered business solutions, creating a future where intelligent technology seamlessly integrates with human creativity and business strategy.",
+    "values": "Our Values",
+    "valuesDesc": "The principles that guide everything we do at DeepSightX.",
+    "innovation": "Innovation",
+    "innovationText": "Constantly pushing boundaries and exploring new possibilities in AI technology.",
+    "excellence": "Excellence",
+    "excellenceText": "Delivering high-quality solutions that exceed expectations and drive results.",
+    "collaboration": "Collaboration",
+    "collaborationText": "Working closely with clients to understand their unique needs and challenges.",
+    "team": "Meet Our Expert Team",
+    "teamDesc": "Our diverse team of AI experts, engineers, and innovators are passionate about transforming businesses through technology.",
+    "stats": {
+      "experience": "Years Experience",
+      "members": "Team Members",
+      "countries": "Countries Served",
+      "delivered": "Projects Delivered"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive AI Solutions for Modern Businesses",
+    "description": "From AI integration to custom software development, we provide end-to-end solutions that drive innovation and growth for your business.",
+    "aiIntegration": {
+      "title": "AI Integration",
+      "description": "Seamlessly integrate artificial intelligence into your existing systems and workflows to enhance efficiency and decision-making.",
+      "features": ["Machine Learning Models", "Natural Language Processing", "Computer Vision", "Predictive Analytics"]
+    },
+    "customSoftware": {
+      "title": "Custom Web Solutions",
+      "description": "Tailored web solutions built from the ground up to meet your specific business requirements and objectives.",
+      "features": ["AI-Enhanced Web Apps", "Custom Job Portals", "Mobile-First Design", "Cloud Solutions"]
+    },
+    "assessmentPlatform": {
+      "title": "Smart Assessment Platforms",
+      "description": "Intelligent platforms for the education sector, featuring automated grading and performance analytics.",
+      "features": ["AI-Powered Testing", "Skill Gap Analysis", "Personalized Learning Paths", "Secure Proctoring"]
+    },
+    "dashboards": {
+      "title": "Smart Dashboards",
+      "description": "Intelligent dashboards and analytics platforms that provide real-time insights and data-driven decision support.",
+      "features": ["Real-time Analytics", "Custom Visualizations", "Data Integration", "Performance Monitoring"]
+    },
+    "consulting": {
+      "title": "AI Consulting",
+      "description": "Strategic consulting services to help you identify AI opportunities and develop implementation roadmaps.",
+      "features": ["AI Strategy", "Technology Assessment", "Implementation Planning", "ROI Analysis"]
+    },
+    "support": {
+      "title": "Support & Maintenance",
+      "description": "Ongoing support and maintenance services to ensure your AI solutions continue to perform optimally.",
+      "features": ["24/7 Support", "Regular Updates", "Performance Optimization", "Training & Documentation"]
+    },
+    "process": {
+      "title": "Our Development Process",
+      "desc": "A proven methodology that ensures successful delivery of your AI solutions.",
+      "step1": "Discovery & Analysis",
+      "step1Desc": "We analyze your business needs and identify AI opportunities.",
+      "step2": "Strategy & Planning",
+      "step2Desc": "Develop a comprehensive implementation strategy and roadmap.",
+      "step3": "Development & Testing",
+      "step3Desc": "Build and rigorously test your custom AI solution.",
+      "step4": "Deployment & Support",
+      "step4Desc": "Deploy your solution and provide ongoing support and optimization."
+    },
+    "tech": {
+      "title": "Technologies We Master",
+      "desc": "We leverage the latest technologies and frameworks to build robust, scalable solutions."
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "desc": "Let's discuss your project and explore how our AI solutions can transform your business.",
+      "button": "Start Your Project"
+    }
+  },
+  "portfolio": {
+    "title": "Our Portfolio",
+    "subtitle": "Showcasing Our Success Stories",
+    "description": "Discover how we've helped businesses across various industries transform their operations with cutting-edge AI solutions and innovative software development.",
+    "categories": {
+      "all": "All",
+      "education": "Education",
+      "hr": "HR Tech",
+      "finance": "Finance",
+      "healthcare": "Healthcare",
+      "logistics": "Logistics",
+      "analytics": "Analytics"
+    },
+    "project1": {
+      "title": "Smart Assessment Platform",
+      "description": "An AI-powered testing and assessment platform for the education sector, automating evaluations.",
+      "tech": "AI/ML, React, Node.js, Python"
+    },
+    "project2": {
+      "title": "AI-Powered Job Portal",
+      "description": "A custom job portal with AI-driven candidate matching and resume parsing features.",
+      "tech": "NLP, React, Python, AWS"
+    },
+    "project3": {
+      "title": "Automated Trading Platform",
+      "description": "AI-driven financial trading and risk management system for investment firms.",
+      "tech": "Deep Learning, Python, React"
+    },
+    "project4": {
+      "title": "Healthcare Diagnostics AI",
+      "description": "Medical imaging analysis with computer vision to assist in early disease detection.",
+      "tech": "Computer Vision, TensorFlow, React"
+    },
+    "project5": {
+      "title": "Supply Chain Optimizer",
+      "description": "Intelligent logistics and inventory management system using optimization algorithms.",
+      "tech": "Optimization AI, React, Node.js"
+    },
+    "project6": {
+      "title": "Retail Analytics Dashboard",
+      "description": "AI-powered analytics platform for retail chain optimization and sales forecasting.",
+      "tech": "Machine Learning, React, Python"
+    },
+    "viewLive": "View Live",
+    "techUsed": "Technologies",
+    "metrics": {
+      "title": "Project Success Metrics",
+      "desc": "Real results from our AI implementations across different industries.",
+      "efficiency": "Average Efficiency Increase",
+      "cost": "Cost Reduction",
+      "satisfaction": "Client Satisfaction",
+      "roi": "ROI Improvement"
+    },
+    "cta": {
+      "title": "Ready to Join Our Success Stories?",
+      "desc": "Let's create the next breakthrough AI solution for your business.",
+      "button": "Start Your Project"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Let's Build Something Amazing Together",
+    "description": "Ready to transform your business with AI? Get in touch with our team to discuss your project and discover how we can help you achieve your goals.",
+    "form": {
+      "title": "Send us a message",
+      "name": "Full Name",
+      "email": "Email Address",
+      "company": "Company Name",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully! We'll get back to you soon.",
+      "error": "Failed to send message. Please try again."
+    },
+    "info": {
+      "title": "Get in touch",
+      "desc": "We're here to help you transform your business with AI. Reach out to us through any of the following channels.",
+      "email": "info@deepsightx.com",
+      "emailDesc": "Send us an email anytime",
+      "phone": "--",
+      "phoneDesc": "Mon-Fri from 8am to 5pm",
+      "address": "Cairo, Egypt",
+      "addressDesc": "Come say hello at our HQ",
+      "hours": "Business Hours",
+      "hours1": "Monday - Friday:",
+      "hours2": "Saturday:",
+      "hours3": "Sunday:",
+      "closed": "Closed",
+      "presence": "Global Presence",
+      "presenceDesc": "We provide our services to clients across the globe. Remote consultations are available regardless of your location or time zone."
+    },
+    "map": {
+      "title": "Find Us",
+      "desc": "Visit our headquarters or schedule a virtual meeting",
+      "placeholder": "Interactive Map",
+      "placeholderDesc": "Map integration would be implemented here"
+    }
+  },
+  "footer": {
+    "description": "Leading AI solutions provider transforming businesses worldwide with intelligent technology and innovative software development.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact Info",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "login": "Login",
+    "logout": "Logout",
+    "dashboard": "Dashboard",
+    "content": "Content Management",
+    "pages": "Pages",
+    "settings": "Settings",
+    "username": "Username",
+    "password": "Password",
+    "loginButton": "Sign In",
+    "loginError": "Invalid credentials",
+    "welcome": "Welcome to DeepSightX Admin Panel",
+    "manageContent": "Manage your website content, pages, and settings from this dashboard.",
+    "editContent": "Edit Content",
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "saved": "Content saved successfully!",
+    "error": "Error saving content. Please try again.",
+    "demo": "Demo credentials: admin / deepsightx2024",
+    "stats": {
+      "pages": "Total Pages",
+      "users": "Active Users",
+      "views": "Page Views",
+      "settings": "Settings"
+    },
+    "contentSections": {
+      "hero": "Hero Section",
+      "about": "About Section",
+      "services": "Services Section"
+    },
+    "fields": {
+      "mainTitle": "Main Title",
+      "subtitle": "Subtitle",
+      "description": "Description",
+      "title": "Title"
+    }
+  }
+}

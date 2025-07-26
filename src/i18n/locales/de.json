@@ -1,0 +1,292 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Dienstleistungen",
+    "portfolio": "Portfolio",
+    "contact": "Kontakt",
+    "admin": "Admin"
+  },
+  "hero": {
+    "title": "KI-gestützte Web-Lösungen",
+    "subtitle": "Unternehmen mit intelligenter Technologie transformieren",
+    "description": "DeepSightX liefert modernste Lösungen für künstliche Intelligenz, maßgeschneiderte KI-gestützte Webplattformen und intelligente Integrationen, die Innovation und Wachstum für Unternehmen weltweit vorantreiben.",
+    "cta": "Loslegen",
+    "learnMore": "Mehr erfahren"
+  },
+  "home": {
+    "whyChoose": "Warum DeepSightX wählen?",
+    "whyChooseDesc": "Wir kombinieren Spitzentechnologie mit Branchenexpertise, um außergewöhnliche Ergebnisse zu liefern.",
+    "features": {
+      "fast": "Schnelle Implementierung",
+      "fastDesc": "Schnelle Bereitstellung von KI-Lösungen mit minimaler Unterbrechung Ihres Arbeitsablaufs.",
+      "secure": "Sicher & Zuverlässig",
+      "secureDesc": "Sicherheit und Zuverlässigkeit auf Unternehmensebene für Ihre kritischen Geschäftsabläufe.",
+      "advanced": "Fortschrittliche KI",
+      "advancedDesc": "Modernste künstliche Intelligenz-Technologie, die auf Ihre Bedürfnisse zugeschnitten ist."
+    },
+    "stats": {
+      "projects": "Abgeschlossene Projekte",
+      "clients": "Zufriedene Kunden",
+      "rate": "Erfolgsquote",
+      "support": "Support verfügbar"
+    },
+    "cta": {
+      "title": "Bereit, Ihr Unternehmen zu transformieren?",
+      "desc": "Schließen Sie sich Hunderten von Unternehmen an, die DeepSightX auf ihrer KI-Transformationsreise vertrauen.",
+      "button": "Starten Sie Ihr Projekt"
+    }
+  },
+  "meta": {
+  "home": {
+    "title": "KI-gestützte Softwarelösungen",
+    "description": "DeepSightX bietet innovative Software- und KI-Dienste für Unternehmen weltweit."
+  },
+   "about": {
+    "title": "Über uns",
+    "description": "Erfahren Sie mehr über DeepSightX – unsere Mission, Vision und das Team hinter unseren KI-gestützten Softwarelösungen."
+  },
+   "contact": {
+    "title": "Kontakt",
+    "description": "Kontaktieren Sie DeepSightX, um Ihre geschäftlichen Anforderungen an KI-gestützte Softwarelösungen zu besprechen."
+  },
+  "services": {
+    "title": "Unsere Leistungen",
+    "description": "Entdecken Sie die KI-gestützten Services von DeepSightX – von individueller Software über intelligente Dashboards bis hin zu Beratung."
+  },
+  "portfolio": {
+    "title": "Unsere Projekte",
+    "description": "Entdecken Sie, wie DeepSightX intelligente Lösungen in Branchen wie Bildung, Finanzen, Gesundheitswesen und mehr geliefert hat."
+  }
+
+},
+
+  "about": {
+    "title": "Über DeepSightX",
+    "subtitle": "Die Zukunft der KI-Innovation anführen",
+    "description": "Wir sind ein zukunftsorientiertes Technologieunternehmen, das sich auf Lösungen für künstliche Intelligenz spezialisiert hat, die die Arbeitsweise von Unternehmen verändern. Unser Expertenteam kombiniert tiefes technisches Wissen mit Brancheneinblicken, um leistungsstarke, skalierbare Lösungen zu liefern.",
+    "mission": "Unsere Mission",
+    "missionText": "Die KI-Technologie zu demokratisieren und sie für Unternehmen jeder Größe zugänglich zu machen, damit sie die Kraft der künstlichen Intelligenz für Wachstum und Innovation nutzen können.",
+    "vision": "Unsere Vision",
+    "visionText": "Der weltweit führende Anbieter von KI-gestützten Geschäftslösungen zu sein und eine Zukunft zu schaffen, in der intelligente Technologie nahtlos mit menschlicher Kreativität und Geschäftsstrategie integriert ist.",
+    "values": "Unsere Werte",
+    "valuesDesc": "Die Prinzipien, die alles leiten, was wir bei DeepSightX tun.",
+    "innovation": "Innovation",
+    "innovationText": "Ständig Grenzen überschreiten und neue Möglichkeiten in der KI-Technologie erkunden.",
+    "excellence": "Exzellenz",
+    "excellenceText": "Lieferung hochwertiger Lösungen, die Erwartungen übertreffen und Ergebnisse erzielen.",
+    "collaboration": "Zusammenarbeit",
+    "collaborationText": "Enge Zusammenarbeit mit Kunden, um ihre einzigartigen Bedürfnisse und Herausforderungen zu verstehen.",
+    "team": "Lernen Sie unser Expertenteam kennen",
+    "teamDesc": "Unser vielfältiges Team aus KI-Experten, Ingenieuren und Innovatoren setzt sich leidenschaftlich dafür ein, Unternehmen durch Technologie zu transformieren.",
+    "stats": {
+      "experience": "Jahre Erfahrung",
+      "members": "Teammitglieder",
+      "countries": "Länder bedient",
+      "delivered": "Projekte geliefert"
+    }
+  },
+  "services": {
+    "title": "Unsere Dienstleistungen",
+    "subtitle": "Umfassende KI-Lösungen für moderne Unternehmen",
+    "description": "Von der KI-Integration bis zur kundenspezifischen Softwareentwicklung bieten wir End-to-End-Lösungen, die Innovation und Wachstum für Ihr Unternehmen vorantreiben.",
+    "aiIntegration": {
+      "title": "KI-Integration",
+      "description": "Nahtlose Integration von künstlicher Intelligenz in Ihre bestehenden Systeme und Arbeitsabläufe zur Steigerung von Effizienz und Entscheidungsfindung.",
+      "features": ["Modelle für maschinelles Lernen", "Verarbeitung natürlicher Sprache", "Computer Vision", "Prädiktive Analytik"]
+    },
+    "customSoftware": {
+      "title": "Maßgeschneiderte Web-Lösungen",
+      "description": "Maßgeschneiderte Web-Lösungen, die von Grund auf entwickelt werden, um Ihre spezifischen Geschäftsanforderungen und -ziele zu erfüllen.",
+      "features": ["KI-gestützte Web-Apps", "Benutzerdefinierte Jobportale", "Mobile-First-Design", "Cloud-Lösungen"]
+    },
+    "assessmentPlatform": {
+      "title": "Intelligente Bewertungsplattformen",
+      "description": "Intelligente Plattformen für den Bildungssektor mit automatisierter Benotung und Leistungsanalytik.",
+      "features": ["KI-gestützte Tests", "Analyse von Qualifikationslücken", "Personalisierte Lernpfade", "Sichere Prüfungsaufsicht"]
+    },
+    "dashboards": {
+      "title": "Intelligente Dashboards",
+      "description": "Intelligente Dashboards und Analyseplattformen, die Echtzeit-Einblicke und datengestützte Entscheidungsunterstützung bieten.",
+      "features": ["Echtzeit-Analysen", "Benutzerdefinierte Visualisierungen", "Datenintegration", "Leistungsüberwachung"]
+    },
+    "consulting": {
+      "title": "KI-Beratung",
+      "description": "Strategische Beratungsdienste, die Ihnen helfen, KI-Möglichkeiten zu identifizieren und Implementierungs-Roadmaps zu entwickeln.",
+      "features": ["KI-Strategie", "Technologiebewertung", "Implementierungsplanung", "ROI-Analyse"]
+    },
+    "support": {
+      "title": "Support & Wartung",
+      "description": "Laufende Support- und Wartungsdienste, um sicherzustellen, dass Ihre KI-Lösungen weiterhin optimal funktionieren.",
+      "features": ["24/7-Support", "Regelmäßige Updates", "Leistungsoptimierung", "Schulung & Dokumentation"]
+    },
+    "process": {
+      "title": "Unser Entwicklungsprozess",
+      "desc": "Eine bewährte Methodik, die die erfolgreiche Bereitstellung Ihrer KI-Lösungen gewährleistet.",
+      "step1": "Entdeckung & Analyse",
+      "step1Desc": "Wir analysieren Ihre Geschäftsanforderungen und identifizieren KI-Möglichkeiten.",
+      "step2": "Strategie & Planung",
+      "step2Desc": "Entwicklung einer umfassenden Implementierungsstrategie und Roadmap.",
+      "step3": "Entwicklung & Testen",
+      "step3Desc": "Erstellen und rigoroses Testen Ihrer benutzerdefinierten KI-Lösung.",
+      "step4": "Bereitstellung & Support",
+      "step4Desc": "Bereitstellung Ihrer Lösung und kontinuierlicher Support und Optimierung."
+    },
+    "tech": {
+      "title": "Technologien, die wir beherrschen",
+      "desc": "Wir nutzen die neuesten Technologien und Frameworks, um robuste, skalierbare Lösungen zu entwickeln."
+    },
+    "cta": {
+      "title": "Bereit loszulegen?",
+      "desc": "Lassen Sie uns Ihr Projekt besprechen und herausfinden, wie unsere KI-Lösungen Ihr Unternehmen verändern können.",
+      "button": "Starten Sie Ihr Projekt"
+    }
+  },
+  "portfolio": {
+    "title": "Unser Portfolio",
+    "subtitle": "Präsentation unserer Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie wir Unternehmen in verschiedenen Branchen geholfen haben, ihre Abläufe mit modernsten KI-Lösungen und innovativer Softwareentwicklung zu transformieren.",
+    "categories": {
+      "all": "Alle",
+      "education": "Bildung",
+      "hr": "HR-Tech",
+      "finance": "Finanzen",
+      "healthcare": "Gesundheitswesen",
+      "logistics": "Logistik",
+      "analytics": "Analytik"
+    },
+    "project1": {
+      "title": "Intelligente Bewertungsplattform",
+      "description": "Eine KI-gestützte Test- und Bewertungsplattform für den Bildungssektor, die Bewertungen automatisiert.",
+      "tech": "KI/ML, React, Node.js, Python"
+    },
+    "project2": {
+      "title": "KI-gestütztes Jobportal",
+      "description": "Ein benutzerdefiniertes Jobportal mit KI-gestützter Kandidatenabstimmung und Lebenslauf-Parsing.",
+      "tech": "NLP, React, Python, AWS"
+    },
+    "project3": {
+      "title": "Automatisierte Handelsplattform",
+      "description": "KI-gestütztes Finanzhandels- und Risikomanagementsystem für Investmentfirmen.",
+      "tech": "Deep Learning, Python, React"
+    },
+    "project4": {
+      "title": "KI-Diagnostik im Gesundheitswesen",
+      "description": "Analyse medizinischer Bilder mit Computer Vision zur Unterstützung der Früherkennung von Krankheiten.",
+      "tech": "Computer Vision, TensorFlow, React"
+    },
+    "project5": {
+      "title": "Lieferketten-Optimierer",
+      "description": "Intelligentes Logistik- und Bestandsverwaltungssystem mit Optimierungsalgorithmen.",
+      "tech": "Optimierungs-KI, React, Node.js"
+    },
+    "project6": {
+      "title": "Einzelhandels-Analyse-Dashboard",
+      "description": "KI-gestützte Analyseplattform zur Optimierung von Einzelhandelsketten und zur Umsatzprognose.",
+      "tech": "Maschinelles Lernen, React, Python"
+    },
+    "viewLive": "Live ansehen",
+    "techUsed": "Verwendete Technologien",
+    "metrics": {
+      "title": "Projekterfolgsmetriken",
+      "desc": "Echte Ergebnisse aus unseren KI-Implementierungen in verschiedenen Branchen.",
+      "efficiency": "Durchschnittliche Effizienzsteigerung",
+      "cost": "Kostenreduzierung",
+      "satisfaction": "Kundenzufriedenheit",
+      "roi": "ROI-Verbesserung"
+    },
+    "cta": {
+      "title": "Bereit, Teil unserer Erfolgsgeschichten zu werden?",
+      "desc": "Lassen Sie uns die nächste bahnbrechende KI-Lösung für Ihr Unternehmen entwickeln.",
+      "button": "Starten Sie Ihr Projekt"
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Lassen Sie uns gemeinsam etwas Erstaunliches schaffen",
+    "description": "Bereit, Ihr Unternehmen mit KI zu transformieren? Kontaktieren Sie unser Team, um Ihr Projekt zu besprechen und zu entdecken, wie wir Ihnen helfen können, Ihre Ziele zu erreichen.",
+    "form": {
+      "title": "Senden Sie uns eine Nachricht",
+      "name": "Vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "company": "Firmenname",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "send": "Nachricht senden",
+      "sending": "Wird gesendet...",
+      "success": "Nachricht erfolgreich gesendet! Wir melden uns bald bei Ihnen.",
+      "error": "Fehler beim Senden der Nachricht. Bitte versuchen Sie es erneut."
+    },
+    "info": {
+      "title": "Kontakt aufnehmen",
+      "desc": "Wir sind hier, um Ihnen zu helfen, Ihr Unternehmen mit KI zu transformieren. Kontaktieren Sie uns über einen der folgenden Kanäle.",
+      "email": "info@deepsightx.com",
+      "emailDesc": "Senden Sie uns jederzeit eine E-Mail",
+      "phone": "--",
+      "phoneDesc": "Mo-Fr von 8 bis 17 Uhr",
+      "address": "Kairo, Ägypten",
+      "addressDesc": "Besuchen Sie uns in unserem Hauptsitz",
+      "hours": "Geschäftszeiten",
+      "hours1": "Montag - Freitag:",
+      "hours2": "Samstag:",
+      "hours3": "Sonntag:",
+      "closed": "Geschlossen",
+      "presence": "Globale Präsenz",
+      "presenceDesc": "Wir bieten unsere Dienstleistungen weltweit an. Online-Beratungen sind unabhängig von Standort oder Zeitzone verfügbar."
+    },
+    "map": {
+      "title": "Finden Sie uns",
+      "desc": "Besuchen Sie unser Hauptquartier oder vereinbaren Sie ein virtuelles Treffen",
+      "placeholder": "Interaktive Karte",
+      "placeholderDesc": "Die Kartenintegration würde hier implementiert"
+    }
+  },
+  "footer": {
+    "description": "Führender Anbieter von KI-Lösungen, der Unternehmen weltweit mit intelligenter Technologie und innovativer Softwareentwicklung transformiert.",
+    "quickLinks": "Schnelllinks",
+    "services": "Dienstleistungen",
+    "contact": "Kontaktinformationen",
+    "followUs": "Folgen Sie uns",
+    "rights": "Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen"
+  },
+  "admin": {
+    "title": "Admin-Panel",
+    "login": "Anmelden",
+    "logout": "Abmelden",
+    "dashboard": "Dashboard",
+    "content": "Inhaltsverwaltung",
+    "pages": "Seiten",
+    "settings": "Einstellungen",
+    "username": "Benutzername",
+    "password": "Passwort",
+    "loginButton": "Anmelden",
+    "loginError": "Ungültige Anmeldeinformationen",
+    "welcome": "Willkommen im DeepSightX Admin-Panel",
+    "manageContent": "Verwalten Sie Ihre Website-Inhalte, Seiten und Einstellungen von diesem Dashboard aus.",
+    "editContent": "Inhalt bearbeiten",
+    "save": "Änderungen speichern",
+    "cancel": "Abbrechen",
+    "saved": "Inhalt erfolgreich gespeichert!",
+    "error": "Fehler beim Speichern des Inhalts. Bitte versuchen Sie es erneut.",
+    "demo": "Demo-Anmeldedaten: admin / deepsightx2024",
+    "stats": {
+      "pages": "Gesamtseiten",
+      "users": "Aktive Benutzer",
+      "views": "Seitenaufrufe",
+      "settings": "Einstellungen"
+    },
+    "contentSections": {
+      "hero": "Helden-Abschnitt",
+      "about": "Über-uns-Abschnitt",
+      "services": "Dienstleistungs-Abschnitt"
+    },
+    "fields": {
+      "mainTitle": "Haupttitel",
+      "subtitle": "Untertitel",
+      "description": "Beschreibung",
+      "title": "Titel"
+    }
+  }
+}
