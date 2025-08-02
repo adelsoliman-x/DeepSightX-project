@@ -8,241 +8,287 @@
     "admin": "Admin"
   },
   "hero": {
-    "title": "KI-gestützte Web-Lösungen",
-    "subtitle": "Unternehmen mit intelligenter Technologie transformieren",
-    "description": "DeepSightX liefert modernste Lösungen für künstliche Intelligenz, maßgeschneiderte KI-gestützte Webplattformen und intelligente Integrationen, die Innovation und Wachstum für Unternehmen weltweit vorantreiben.",
-    "cta": "Loslegen",
-    "learnMore": "Mehr erfahren"
+  "title": "Web- und SaaS-Plattformen mit KI-Unterstützung",
+  "subtitle": "Intelligente Lösungen maßgeschneidert für Ihr Unternehmen.",
+  "description": "Bei DeepSightX entwickeln wir individuelle Webplattformen und SaaS-Anwendungen, die Unternehmen durch effektive digitale Werkzeuge unterstützen – mit optionaler Integration von künstlicher Intelligenz zur Leistungssteigerung und Zeitersparnis.",
+  "cta": "Jetzt starten",
+  "learnMore": "Mehr erfahren"
+},
+"home": {
+  "whyChoose": "Warum DeepSightX?",
+  "whyChooseDesc": "Wir entwickeln skalierbare Softwarelösungen mit den neuesten Web- und KI-Technologien. Unser Fokus liegt auf praktischen Tools, die reale Geschäftsprobleme lösen.",
+  "features": {
+    "fast": "Schnelle & effiziente Entwicklung",
+    "fastDesc": "Wir liefern Projekte präzise und zügig, ohne Kompromisse bei Codequalität und Performance.",
+    "secure": "Sicherheit & Zuverlässigkeit",
+    "secureDesc": "Wir verwenden bewährte Sicherheitsstandards zum Schutz Ihrer Daten und Systeme.",
+    "advanced": "KI-Integration",
+    "advancedDesc": "Wir integrieren intelligente KI-Funktionen zur Verbesserung der Benutzererfahrung und Effizienz."
   },
-  "home": {
-    "whyChoose": "Warum DeepSightX wählen?",
-    "whyChooseDesc": "Wir kombinieren Spitzentechnologie mit Branchenexpertise, um außergewöhnliche Ergebnisse zu liefern.",
-    "features": {
-      "fast": "Schnelle Implementierung",
-      "fastDesc": "Schnelle Bereitstellung von KI-Lösungen mit minimaler Unterbrechung Ihres Arbeitsablaufs.",
-      "secure": "Sicher & Zuverlässig",
-      "secureDesc": "Sicherheit und Zuverlässigkeit auf Unternehmensebene für Ihre kritischen Geschäftsabläufe.",
-      "advanced": "Fortschrittliche KI",
-      "advancedDesc": "Modernste künstliche Intelligenz-Technologie, die auf Ihre Bedürfnisse zugeschnitten ist."
-    },
-    "stats": {
-      "projects": "Abgeschlossene Projekte",
-      "clients": "Zufriedene Kunden",
-      "rate": "Erfolgsquote",
-      "support": "Support verfügbar"
-    },
-    "cta": {
-      "title": "Bereit, Ihr Unternehmen zu transformieren?",
-      "desc": "Schließen Sie sich Hunderten von Unternehmen an, die DeepSightX auf ihrer KI-Transformationsreise vertrauen.",
-      "button": "Starten Sie Ihr Projekt"
-    }
+  "stats": {
+    "projects": "Abgeschlossene Projekte",
+    "clients": "Zufriedene Kunden",
+    "rate": "Erfolgsquote",
+    "support": "Support verfügbar"
+  },
+  "cta": {
+    "title": "Bereit für Ihre digitale Transformation?",
+    "desc": "Schließen Sie sich Hunderten von Unternehmen an, die DeepSightX für ihre KI-getriebene Digitalisierung vertrauen.",
+    "button": "Projekt starten"
+  }
   },
   "meta": {
   "home": {
-    "title": "KI-gestützte Softwarelösungen",
-    "description": "DeepSightX bietet innovative Software- und KI-Dienste für Unternehmen weltweit."
+    "title": "Softwarelösungen mit KI-Power",
+    "description": "DeepSightX bietet fortschrittliche, KI-gestützte Web- und SaaS-Lösungen für Unternehmen weltweit."
   },
-   "about": {
-    "title": "Über uns",
-    "description": "Erfahren Sie mehr über DeepSightX – unsere Mission, Vision und das Team hinter unseren KI-gestützten Softwarelösungen."
-  },
-   "contact": {
-    "title": "Kontakt",
-    "description": "Kontaktieren Sie DeepSightX, um Ihre geschäftlichen Anforderungen an KI-gestützte Softwarelösungen zu besprechen."
-  },
-  "services": {
-    "title": "Unsere Leistungen",
-    "description": "Entdecken Sie die KI-gestützten Services von DeepSightX – von individueller Software über intelligente Dashboards bis hin zu Beratung."
-  },
-  "portfolio": {
-    "title": "Unsere Projekte",
-    "description": "Entdecken Sie, wie DeepSightX intelligente Lösungen in Branchen wie Bildung, Finanzen, Gesundheitswesen und mehr geliefert hat."
-  }
-
-},
-
   "about": {
-    "title": "Über DeepSightX",
-    "subtitle": "Die Zukunft der KI-Innovation anführen",
-    "description": "Wir sind ein zukunftsorientiertes Technologieunternehmen, das sich auf Lösungen für künstliche Intelligenz spezialisiert hat, die die Arbeitsweise von Unternehmen verändern. Unser Expertenteam kombiniert tiefes technisches Wissen mit Brancheneinblicken, um leistungsstarke, skalierbare Lösungen zu liefern.",
-    "mission": "Unsere Mission",
-    "missionText": "Die KI-Technologie zu demokratisieren und sie für Unternehmen jeder Größe zugänglich zu machen, damit sie die Kraft der künstlichen Intelligenz für Wachstum und Innovation nutzen können.",
-    "vision": "Unsere Vision",
-    "visionText": "Der weltweit führende Anbieter von KI-gestützten Geschäftslösungen zu sein und eine Zukunft zu schaffen, in der intelligente Technologie nahtlos mit menschlicher Kreativität und Geschäftsstrategie integriert ist.",
-    "values": "Unsere Werte",
-    "valuesDesc": "Die Prinzipien, die alles leiten, was wir bei DeepSightX tun.",
-    "innovation": "Innovation",
-    "innovationText": "Ständig Grenzen überschreiten und neue Möglichkeiten in der KI-Technologie erkunden.",
-    "excellence": "Exzellenz",
-    "excellenceText": "Lieferung hochwertiger Lösungen, die Erwartungen übertreffen und Ergebnisse erzielen.",
-    "collaboration": "Zusammenarbeit",
-    "collaborationText": "Enge Zusammenarbeit mit Kunden, um ihre einzigartigen Bedürfnisse und Herausforderungen zu verstehen.",
-    "team": "Lernen Sie unser Expertenteam kennen",
-    "teamDesc": "Unser vielfältiges Team aus KI-Experten, Ingenieuren und Innovatoren setzt sich leidenschaftlich dafür ein, Unternehmen durch Technologie zu transformieren.",
-    "stats": {
-      "experience": "Jahre Erfahrung",
-      "members": "Teammitglieder",
-      "countries": "Länder bedient",
-      "delivered": "Projekte geliefert"
-    }
-  },
-  "services": {
-    "title": "Unsere Dienstleistungen",
-    "subtitle": "Umfassende KI-Lösungen für moderne Unternehmen",
-    "description": "Von der KI-Integration bis zur kundenspezifischen Softwareentwicklung bieten wir End-to-End-Lösungen, die Innovation und Wachstum für Ihr Unternehmen vorantreiben.",
-    "aiIntegration": {
-      "title": "KI-Integration",
-      "description": "Nahtlose Integration von künstlicher Intelligenz in Ihre bestehenden Systeme und Arbeitsabläufe zur Steigerung von Effizienz und Entscheidungsfindung.",
-      "features": ["Modelle für maschinelles Lernen", "Verarbeitung natürlicher Sprache", "Computer Vision", "Prädiktive Analytik"]
-    },
-    "customSoftware": {
-      "title": "Maßgeschneiderte Web-Lösungen",
-      "description": "Maßgeschneiderte Web-Lösungen, die von Grund auf entwickelt werden, um Ihre spezifischen Geschäftsanforderungen und -ziele zu erfüllen.",
-      "features": ["KI-gestützte Web-Apps", "Benutzerdefinierte Jobportale", "Mobile-First-Design", "Cloud-Lösungen"]
-    },
-    "assessmentPlatform": {
-      "title": "Intelligente Bewertungsplattformen",
-      "description": "Intelligente Plattformen für den Bildungssektor mit automatisierter Benotung und Leistungsanalytik.",
-      "features": ["KI-gestützte Tests", "Analyse von Qualifikationslücken", "Personalisierte Lernpfade", "Sichere Prüfungsaufsicht"]
-    },
-    "dashboards": {
-      "title": "Intelligente Dashboards",
-      "description": "Intelligente Dashboards und Analyseplattformen, die Echtzeit-Einblicke und datengestützte Entscheidungsunterstützung bieten.",
-      "features": ["Echtzeit-Analysen", "Benutzerdefinierte Visualisierungen", "Datenintegration", "Leistungsüberwachung"]
-    },
-    "consulting": {
-      "title": "KI-Beratung",
-      "description": "Strategische Beratungsdienste, die Ihnen helfen, KI-Möglichkeiten zu identifizieren und Implementierungs-Roadmaps zu entwickeln.",
-      "features": ["KI-Strategie", "Technologiebewertung", "Implementierungsplanung", "ROI-Analyse"]
-    },
-    "support": {
-      "title": "Support & Wartung",
-      "description": "Laufende Support- und Wartungsdienste, um sicherzustellen, dass Ihre KI-Lösungen weiterhin optimal funktionieren.",
-      "features": ["24/7-Support", "Regelmäßige Updates", "Leistungsoptimierung", "Schulung & Dokumentation"]
-    },
-    "process": {
-      "title": "Unser Entwicklungsprozess",
-      "desc": "Eine bewährte Methodik, die die erfolgreiche Bereitstellung Ihrer KI-Lösungen gewährleistet.",
-      "step1": "Entdeckung & Analyse",
-      "step1Desc": "Wir analysieren Ihre Geschäftsanforderungen und identifizieren KI-Möglichkeiten.",
-      "step2": "Strategie & Planung",
-      "step2Desc": "Entwicklung einer umfassenden Implementierungsstrategie und Roadmap.",
-      "step3": "Entwicklung & Testen",
-      "step3Desc": "Erstellen und rigoroses Testen Ihrer benutzerdefinierten KI-Lösung.",
-      "step4": "Bereitstellung & Support",
-      "step4Desc": "Bereitstellung Ihrer Lösung und kontinuierlicher Support und Optimierung."
-    },
-    "tech": {
-      "title": "Technologien, die wir beherrschen",
-      "desc": "Wir nutzen die neuesten Technologien und Frameworks, um robuste, skalierbare Lösungen zu entwickeln."
-    },
-    "cta": {
-      "title": "Bereit loszulegen?",
-      "desc": "Lassen Sie uns Ihr Projekt besprechen und herausfinden, wie unsere KI-Lösungen Ihr Unternehmen verändern können.",
-      "button": "Starten Sie Ihr Projekt"
-    }
-  },
-  "portfolio": {
-    "title": "Unser Portfolio",
-    "subtitle": "Präsentation unserer Erfolgsgeschichten",
-    "description": "Entdecken Sie, wie wir Unternehmen in verschiedenen Branchen geholfen haben, ihre Abläufe mit modernsten KI-Lösungen und innovativer Softwareentwicklung zu transformieren.",
-    "categories": {
-      "all": "Alle",
-      "education": "Bildung",
-      "hr": "HR-Tech",
-      "finance": "Finanzen",
-      "healthcare": "Gesundheitswesen",
-      "logistics": "Logistik",
-      "analytics": "Analytik"
-    },
-    "project1": {
-      "title": "Intelligente Bewertungsplattform",
-      "description": "Eine KI-gestützte Test- und Bewertungsplattform für den Bildungssektor, die Bewertungen automatisiert.",
-      "tech": "KI/ML, React, Node.js, Python"
-    },
-    "project2": {
-      "title": "KI-gestütztes Jobportal",
-      "description": "Ein benutzerdefiniertes Jobportal mit KI-gestützter Kandidatenabstimmung und Lebenslauf-Parsing.",
-      "tech": "NLP, React, Python, AWS"
-    },
-    "project3": {
-      "title": "Automatisierte Handelsplattform",
-      "description": "KI-gestütztes Finanzhandels- und Risikomanagementsystem für Investmentfirmen.",
-      "tech": "Deep Learning, Python, React"
-    },
-    "project4": {
-      "title": "KI-Diagnostik im Gesundheitswesen",
-      "description": "Analyse medizinischer Bilder mit Computer Vision zur Unterstützung der Früherkennung von Krankheiten.",
-      "tech": "Computer Vision, TensorFlow, React"
-    },
-    "project5": {
-      "title": "Lieferketten-Optimierer",
-      "description": "Intelligentes Logistik- und Bestandsverwaltungssystem mit Optimierungsalgorithmen.",
-      "tech": "Optimierungs-KI, React, Node.js"
-    },
-    "project6": {
-      "title": "Einzelhandels-Analyse-Dashboard",
-      "description": "KI-gestützte Analyseplattform zur Optimierung von Einzelhandelsketten und zur Umsatzprognose.",
-      "tech": "Maschinelles Lernen, React, Python"
-    },
-    "viewLive": "Live ansehen",
-    "techUsed": "Verwendete Technologien",
-    "metrics": {
-      "title": "Projekterfolgsmetriken",
-      "desc": "Echte Ergebnisse aus unseren KI-Implementierungen in verschiedenen Branchen.",
-      "efficiency": "Durchschnittliche Effizienzsteigerung",
-      "cost": "Kostenreduzierung",
-      "satisfaction": "Kundenzufriedenheit",
-      "roi": "ROI-Verbesserung"
-    },
-    "cta": {
-      "title": "Bereit, Teil unserer Erfolgsgeschichten zu werden?",
-      "desc": "Lassen Sie uns die nächste bahnbrechende KI-Lösung für Ihr Unternehmen entwickeln.",
-      "button": "Starten Sie Ihr Projekt"
-    }
+    "title": "Über uns",
+    "description": "Erfahren Sie mehr über DeepSightX – unsere Mission, Vision und das Team hinter innovativen KI-gestützten Softwarelösungen."
   },
   "contact": {
     "title": "Kontakt",
-    "subtitle": "Lassen Sie uns gemeinsam etwas Erstaunliches schaffen",
-    "description": "Bereit, Ihr Unternehmen mit KI zu transformieren? Kontaktieren Sie unser Team, um Ihr Projekt zu besprechen und zu entdecken, wie wir Ihnen helfen können, Ihre Ziele zu erreichen.",
-    "form": {
-      "title": "Senden Sie uns eine Nachricht",
-      "name": "Vollständiger Name",
-      "email": "E-Mail-Adresse",
-      "company": "Firmenname",
-      "subject": "Betreff",
-      "message": "Nachricht",
-      "send": "Nachricht senden",
-      "sending": "Wird gesendet...",
-      "success": "Nachricht erfolgreich gesendet! Wir melden uns bald bei Ihnen.",
-      "error": "Fehler beim Senden der Nachricht. Bitte versuchen Sie es erneut."
-    },
-    "info": {
-      "title": "Kontakt aufnehmen",
-      "desc": "Wir sind hier, um Ihnen zu helfen, Ihr Unternehmen mit KI zu transformieren. Kontaktieren Sie uns über einen der folgenden Kanäle.",
-      "email": "info@deepsightx.com",
-      "emailDesc": "Senden Sie uns jederzeit eine E-Mail",
-      "phone": "--",
-      "phoneDesc": "Mo-Fr von 8 bis 17 Uhr",
-      "address": "Kairo, Ägypten",
-      "addressDesc": "Besuchen Sie uns in unserem Hauptsitz",
-      "hours": "Geschäftszeiten",
-      "hours1": "Montag - Freitag:",
-      "hours2": "Samstag:",
-      "hours3": "Sonntag:",
-      "closed": "Geschlossen",
-      "presence": "Globale Präsenz",
-      "presenceDesc": "Wir bieten unsere Dienstleistungen weltweit an. Online-Beratungen sind unabhängig von Standort oder Zeitzone verfügbar."
-    },
-    "map": {
-      "title": "Finden Sie uns",
-      "desc": "Besuchen Sie unser Hauptquartier oder vereinbaren Sie ein virtuelles Treffen",
-      "placeholder": "Interaktive Karte",
-      "placeholderDesc": "Die Kartenintegration würde hier implementiert"
+    "description": "Kontaktieren Sie DeepSightX, um über Ihre individuellen Softwareanforderungen und KI-Lösungen zu sprechen."
+  },
+  "services": {
+    "title": "Leistungen",
+    "description": "Entdecken Sie die Dienstleistungen von DeepSightX: Individuelle Softwareentwicklung, intelligente Dashboards, KI-Beratung und mehr."
+  },
+  "portfolio": {
+    "title": "Projekte",
+    "description": "Sehen Sie, wie DeepSightX smarte Lösungen für Branchen wie Bildung, Finanzen, Gesundheitswesen und mehr umgesetzt hat."
+  }
+},
+"about": {
+  "title": "Über uns",
+  "subtitle": "Ihr Partner für smarte digitale Lösungen",
+  "description": "DeepSightX ist spezialisiert auf die Entwicklung von Webanwendungen und individuellen SaaS-Plattformen. Wir unterstützen Unternehmen bei der digitalen Transformation mit anpassbaren Technologien und optionaler KI-Integration – entwickelt für echte Geschäftsanforderungen.",
+  "mission": "Unsere Mission",
+  "missionText": "Unternehmen in die Lage zu versetzen, leistungsstarke, skalierbare und intelligente Softwarelösungen mit modernster Web- und KI-Technologie zu entwickeln.",
+  "vision": "Unsere Vision",
+  "visionText": "Die erste Wahl für Unternehmen zu sein, die flexible und praxisorientierte Technologien suchen, die einen echten Unterschied machen.",
+  "values": "Unsere Werte",
+  "valuesDesc": "Unsere Werte leiten jede Entscheidung und jede Codezeile, die wir schreiben.",
+  "innovation": "Innovation",
+  "innovationText": "Wir glauben an praxisnahe Innovation, die reale Ziele unserer Kunden unterstützt.",
+  "excellence": "Exzellenz",
+  "excellenceText": "Qualität in Code, Design und Kommunikation ist unser Standard.",
+  "collaboration": "Zusammenarbeit",
+  "collaborationText": "Wir arbeiten eng mit unseren Kunden zusammen, um ihre Vision zu verstehen und umzusetzen.",
+  "team": "Unser Team",
+  "teamDesc": "Ein Team aus Softwareingenieuren und KI-Entwicklern mit vielfältigem Know-how und einer Leidenschaft für maßgeschneiderte Lösungen.",
+  "stats": {
+    "experience": "Jahre Erfahrung",
+    "members": "Teammitglieder",
+    "countries": "Länder im Service",
+    "delivered": "Umgesetzte Projekte"
+  }
+  },
+  "services": {
+  "title": "Unsere Leistungen",
+  "subtitle": "Moderne Web- & SaaS-Lösungen mit integrierter KI",
+  "description": "Wir bieten ein umfassendes Spektrum an Softwaredienstleistungen für Unternehmen, die digitale Transformation anstreben – von SaaS-Plattformen über KI-Integration bis hin zu Datenanalysen.",
+  
+  "aiIntegration": {
+    "title": "KI-Integration",
+    "description": "Wir integrieren Technologien wie OpenAI, LangChain und maßgeschneiderte Modelle in Ihre Anwendungen, um Leistung und Benutzererfahrung zu verbessern.",
+    "features": [
+      "Intelligente Sprachmodelle",
+      "Inhaltsanalyse",
+      "Prozessautomatisierung",
+      "Bessere Entscheidungsfindung"
+    ]
+  },
+
+  "customSoftware": {
+    "title": "Individuelle Webentwicklung",
+    "description": "Wir entwickeln leistungsstarke Webanwendungen mit MERN Stack und Python, die exakt auf Ihre geschäftlichen Anforderungen zugeschnitten sind.",
+    "features": [
+      "Flexible SaaS-Lösungen",
+      "Interne Dashboards",
+      "Moderne Benutzeroberflächen",
+      "Hohe Performance & Sicherheit"
+    ]
+  },
+
+  "assessmentPlatform": {
+    "title": "Intelligente Bewertungsplattformen",
+    "description": "Smarte Plattformen für den Bildungsbereich mit automatisierter Bewertung und Leistungsanalysen.",
+    "features": [
+      "KI-gestützte Tests",
+      "Kompetenzlückenanalyse",
+      "Individuelle Lernpfade",
+      "Sichere Prüfungsumgebung"
+    ]
+  },
+
+  "dashboards": {
+    "title": "Daten- & Analyse-Dashboards",
+    "description": "Echtzeit-Datenvisualisierung mit anpassbaren Layouts und Integration externer Datenquellen.",
+    "features": [
+      "Live-Reporting",
+      "Interaktive Visualisierung",
+      "Leistungsanalysen",
+      "Datenbasierte Entscheidungsfindung"
+    ]
+  },
+
+  "consulting": {
+    "title": "KI-Beratung",
+    "description": "Strategische Beratung zur Identifikation von KI-Chancen und Entwicklung umsetzbarer Roadmaps.",
+    "features": [
+      "KI-Strategieentwicklung",
+      "Technologieanalyse",
+      "Implementierungsplanung",
+      "ROI-Bewertung"
+    ]
+  },
+
+  "support": {
+    "title": "Support & Wartung",
+    "description": "Wir begleiten Ihre Software auch nach dem Launch und sorgen für eine zuverlässige Weiterentwicklung.",
+    "features": [
+      "Regelmäßige Wartung",
+      "Kontinuierliche Optimierung",
+      "Technischer Support",
+      "Technologieberatung"
+    ]
+  },
+
+  "process": {
+    "title": "Unser Entwicklungsprozess",
+    "desc": "Ein bewährter Ablauf, der den Erfolg Ihrer KI-Lösung sicherstellt.",
+    "step1": "Bedarfsanalyse",
+    "step1Desc": "Wir analysieren Ihre Geschäftsanforderungen und prüfen KI-Potenziale.",
+    "step2": "Strategie & Planung",
+    "step2Desc": "Entwicklung einer klaren Umsetzungsstrategie mit Roadmap.",
+    "step3": "Entwicklung & Testing",
+    "step3Desc": "Wir entwickeln und testen Ihre maßgeschneiderte Lösung sorgfältig.",
+    "step4": "Go-Live & Support",
+    "step4Desc": "Launch Ihrer Lösung mit fortlaufendem Support & Optimierung."
+  },
+
+  "tech": {
+    "title": "Unsere Technologien",
+    "desc": "Wir setzen auf moderne Technologien für robuste, skalierbare Lösungen – u. a. React, Node.js, Django, Flask, OpenAI, Docker."
+  },
+
+  "cta": {
+    "title": "Haben Sie eine Projektidee?",
+    "desc": "Lassen Sie uns sie gemeinsam in ein smartes digitales Produkt verwandeln.",
+    "button": "Jetzt Projekt starten"
+  }
+  },
+  
+  "portfolio": {
+  "title": "Unsere Projekte",
+  "subtitle": "Wir entwickeln Lösungen mit echtem Mehrwert",
+  "description": "Wir unterstützen Unternehmen bei der digitalen Transformation durch maßgeschneiderte Webplattformen und intelligente KI-Integrationen in verschiedensten Branchen.",
+  
+  "categories": {
+    "all": "Alle",
+    "education": "Bildung",
+    "hr": "Human Resources",
+    "finance": "Finanzen",
+    "healthcare": "Gesundheitswesen",
+    "logistics": "Logistik",
+    "analytics": "Analytik"
+  },
+
+  "project1": {
+    "title": "Bildungsplattform zur Leistungsbewertung",
+    "description": "Intelligentes Prüfungssystem für Schüler:innen mit automatisierter Analyse und Identifikation von Wissenslücken.",
+    "tech": "React, Node.js, Python, KI/ML"
+  },
+  "project2": {
+    "title": "Smartes Recruiting-System",
+    "description": "KI-gestützte Plattform für Kandidaten-Matching und Lebenslaufanalyse.",
+    "tech": "NLP, React, Python, AWS"
+  },
+  "project3": {
+    "title": "Automatisierte Handelsplattform",
+    "description": "KI-basiertes System zur Risikosteuerung und Marktprognose im Finanzsektor.",
+    "tech": "Deep Learning, Python, React"
+  },
+  "project4": {
+    "title": "Intelligente medizinische Diagnostik",
+    "description": "Bildanalyse im Gesundheitswesen mit Computer Vision zur frühzeitigen Krankheitsidentifikation.",
+    "tech": "Computer Vision, TensorFlow, React"
+  },
+  "project5": {
+    "title": "Smartes Logistiksystem",
+    "description": "Optimierung der Lieferkette mithilfe von KI-Algorithmen für Bestands- und Routenmanagement.",
+    "tech": "Optimierungs-KI, Node.js, React"
+  },
+  "project6": {
+    "title": "Retail-Analyse-Dashboard",
+    "description": "Datenanalyseplattform zur Umsatzprognose und Bestandsoptimierung im Einzelhandel.",
+    "tech": "Maschinelles Lernen, React, Python"
+  },
+
+  "viewLive": "Live ansehen",
+  "techUsed": "Verwendete Technologien",
+
+  "metrics": {
+    "title": "Reale Ergebnisse unserer Lösungen",
+    "desc": "Unsere maßgeschneiderten Systeme steigern die Effizienz, senken Kosten und erhöhen den ROI.",
+    "efficiency": "Effizienzsteigerung",
+    "cost": "Kostensenkung",
+    "satisfaction": "Kundenzufriedenheit",
+    "roi": "Return on Investment"
+  },
+
+  "cta": {
+    "title": "Bereit für Ihr nächstes Projekt?",
+    "desc": "Lassen Sie uns gemeinsam Ihre nächste smarte Lösung entwickeln.",
+    "button": "Starten Sie Ihr Projekt"
     }
   },
+  "contact": {
+  "title": "Kontaktieren Sie uns",
+  "subtitle": "Lassen Sie uns gemeinsam etwas Großartiges schaffen",
+  "description": "Haben Sie eine Idee oder ein Projekt? Das Team von DeepSightX steht bereit, um Ihnen bei der Entwicklung intelligenter, KI-gestützter digitaler Lösungen zu helfen.",
+
+  "form": {
+    "title": "Schreiben Sie uns eine Nachricht",
+    "name": "Vollständiger Name",
+    "email": "E-Mail-Adresse",
+    "company": "Firmenname",
+    "subject": "Betreff",
+    "message": "Nachricht",
+    "send": "Nachricht senden",
+    "sending": "Wird gesendet...",
+    "success": "Nachricht erfolgreich gesendet! Wir melden uns bald bei Ihnen.",
+    "error": "Fehler beim Senden der Nachricht. Bitte versuchen Sie es erneut."
+  },
+
+  "info": {
+    "title": "So erreichen Sie uns",
+    "desc": "Kontaktieren Sie uns über die folgenden Wege – wir freuen uns, Ihnen weiterzuhelfen.",
+    "email": "info@deepsightx.com",
+    "emailDesc": "Unsere offizielle E-Mail für Support und Anfragen",
+    "phone": "--",
+    "phoneDesc": "Montag bis Freitag von 8:00 bis 17:00 Uhr",
+    "address": "Kairo, Arabische Republik Ägypten",
+    "addressDesc": "Besuchen Sie uns in unserem Hauptsitz",
+    "hours": "Öffnungszeiten",
+    "hours1": "Montag – Freitag:",
+    "hours2": "Samstag:",
+    "hours3": "Sonntag:",
+    "closed": "Geschlossen",
+    "presence": "Weltweite Präsenz",
+    "presenceDesc": "Wir bieten unsere Dienstleistungen weltweit an. Online-Beratungen sind orts- und zeitzonenunabhängig verfügbar."
+  },
+
+  "map": {
+    "title": "Hier finden Sie uns",
+    "desc": "Besuchen Sie unseren Hauptsitz oder vereinbaren Sie ein virtuelles Meeting",
+    "placeholder": "Interaktive Karte",
+    "placeholderDesc": "Die Kartenintegration wird hier implementiert"
+  }
+  },
   "footer": {
-    "description": "Führender Anbieter von KI-Lösungen, der Unternehmen weltweit mit intelligenter Technologie und innovativer Softwareentwicklung transformiert.",
+  "description": "DeepSightX ist ein Softwareunternehmen, das sich auf die Entwicklung maßgeschneiderter Weblösungen und SaaS-Plattformen spezialisiert hat – mit der Möglichkeit, KI-Technologien zu integrieren, um Wachstum und Leistung zu steigern.",
     "quickLinks": "Schnelllinks",
     "services": "Dienstleistungen",
     "contact": "Kontaktinformationen",
