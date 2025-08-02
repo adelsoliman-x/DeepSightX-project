@@ -8,243 +8,243 @@
     "admin": "Admin"
   },
   "hero": {
-    "title": "AI-Powered Web Solutions",
-    "subtitle": "Transforming Businesses with Intelligent Technology",
-    "description": "DeepSightX delivers cutting-edge artificial intelligence solutions, custom AI-enhanced web platforms, and smart integrations that drive innovation and growth for businesses worldwide.",
-    "cta": "Get Started",
-    "learnMore": "Learn More"
+  "title": "AI-Powered Web & SaaS Development",
+  "subtitle": "We build smart digital solutions tailored to your business.",
+  "description": "At DeepSightX, we develop custom web platforms and SaaS applications that empower businesses to scale and operate more efficiently. Our solutions are enhanced with AI to optimize performance and save valuable time.",
+  "cta": "Get Started",
+  "learnMore": "Learn More"
   },
-  "home": {
-    "whyChoose": "Why Choose DeepSightX?",
-    "whyChooseDesc": "We combine cutting-edge technology with industry expertise to deliver exceptional results.",
-    "features": {
-      "fast": "Fast Implementation",
-      "fastDesc": "Quick deployment of AI solutions with minimal disruption to your workflow.",
-      "secure": "Secure & Reliable",
-      "secureDesc": "Enterprise-grade security and reliability for your critical business operations.",
-      "advanced": "Advanced AI",
-      "advancedDesc": "Cutting-edge artificial intelligence technology tailored to your needs."
-    },
-    "stats": {
-      "projects": "Projects Completed",
-      "clients": "Happy Clients",
-      "rate": "Success Rate",
-      "support": "Support Available"
-    },
-    "cta": {
-      "title": "Ready to Transform Your Business?",
-      "desc": "Join hundreds of companies that trust DeepSightX for their AI transformation journey.",
-      "button": "Start Your Project"
-    }
+"home": {
+  "whyChoose": "Why Choose DeepSightX?",
+  "whyChooseDesc": "We focus on building scalable software solutions using the latest web and AI technologies. Our mission is to deliver practical tools that solve real business problems.",
+  "features": {
+    "fast": "Fast & Efficient Development",
+    "fastDesc": "We deliver projects with speed and precision, without compromising on code quality or performance.",
+    "secure": "Security & Reliability",
+    "secureDesc": "We follow industry best practices to ensure your systems and data are protected at every level.",
+    "advanced": "Smart AI Integration",
+    "advancedDesc": "We embed AI technologies to improve user experience and operational efficiency."
   },
+  "stats": {
+    "projects": "Completed Projects",
+    "clients": "Happy Clients",
+    "rate": "Success Rate",
+    "support": "Support Availability"
+  },
+  "cta": {
+    "title": "Ready to Transform Your Business?",
+    "desc": "Join hundreds of companies that trust DeepSightX on their journey to digital transformation with AI.",
+    "button": "Start Your Project"
+  }
+},
   "meta": {
   "home": {
-    "title": "AI-Powered Software Solutions",
-    "description": "DeepSightX delivers cutting-edge software and AI services for businesses worldwide."
+    "title": "Web & SaaS Solutions with Smart AI Integration",
+    "description": "DeepSightX delivers custom web applications and SaaS platforms enhanced with powerful AI features to help businesses grow and operate more efficiently."
   },
   "about": {
     "title": "About Us",
-    "description": "Learn more about DeepSightX, our mission, vision, and the team driving innovation in AI-powered software."
+    "description": "Learn more about DeepSightX—our mission, vision, and the team behind innovative web and SaaS solutions powered by AI."
   },
   "contact": {
-    "title": "Contact Us",
-    "description": "Get in touch with DeepSightX to discuss your AI-driven software solutions and business needs."
+    "title": "Get in Touch",
+    "description": "Connect with DeepSightX to discuss your business needs and explore how our AI-powered web solutions can help you succeed."
   },
   "services": {
     "title": "Our Services",
-    "description": "Explore DeepSightX's AI-powered services, from custom software to intelligent dashboards and consulting."
-  },
-   "portfolio": {
-    "title": "Our Projects",
-    "description": "Discover how DeepSightX has delivered intelligent solutions across industries like education, finance, healthcare, and more."
-  }
-
-
-
-},
-
-  "about": {
-    "title": "About DeepSightX",
-    "subtitle": "Leading the Future of AI Innovation",
-    "description": "We are a forward-thinking technology company specializing in artificial intelligence solutions that transform how businesses operate. Our team of experts combines deep technical knowledge with industry insights to deliver powerful, scalable solutions.",
-    "mission": "Our Mission",
-    "missionText": "To democratize AI technology and make it accessible to businesses of all sizes, enabling them to harness the power of artificial intelligence for growth and innovation.",
-    "vision": "Our Vision",
-    "visionText": "To be the global leader in AI-powered business solutions, creating a future where intelligent technology seamlessly integrates with human creativity and business strategy.",
-    "values": "Our Values",
-    "valuesDesc": "The principles that guide everything we do at DeepSightX.",
-    "innovation": "Innovation",
-    "innovationText": "Constantly pushing boundaries and exploring new possibilities in AI technology.",
-    "excellence": "Excellence",
-    "excellenceText": "Delivering high-quality solutions that exceed expectations and drive results.",
-    "collaboration": "Collaboration",
-    "collaborationText": "Working closely with clients to understand their unique needs and challenges.",
-    "team": "Meet Our Expert Team",
-    "teamDesc": "Our diverse team of AI experts, engineers, and innovators are passionate about transforming businesses through technology.",
-    "stats": {
-      "experience": "Years Experience",
-      "members": "Team Members",
-      "countries": "Countries Served",
-      "delivered": "Projects Delivered"
-    }
-  },
-  "services": {
-    "title": "Our Services",
-    "subtitle": "Comprehensive AI Solutions for Modern Businesses",
-    "description": "From AI integration to custom software development, we provide end-to-end solutions that drive innovation and growth for your business.",
-    "aiIntegration": {
-      "title": "AI Integration",
-      "description": "Seamlessly integrate artificial intelligence into your existing systems and workflows to enhance efficiency and decision-making.",
-      "features": ["Machine Learning Models", "Natural Language Processing", "Computer Vision", "Predictive Analytics"]
-    },
-    "customSoftware": {
-      "title": "Custom Web Solutions",
-      "description": "Tailored web solutions built from the ground up to meet your specific business requirements and objectives.",
-      "features": ["AI-Enhanced Web Apps", "Custom Job Portals", "Mobile-First Design", "Cloud Solutions"]
-    },
-    "assessmentPlatform": {
-      "title": "Smart Assessment Platforms",
-      "description": "Intelligent platforms for the education sector, featuring automated grading and performance analytics.",
-      "features": ["AI-Powered Testing", "Skill Gap Analysis", "Personalized Learning Paths", "Secure Proctoring"]
-    },
-    "dashboards": {
-      "title": "Smart Dashboards",
-      "description": "Intelligent dashboards and analytics platforms that provide real-time insights and data-driven decision support.",
-      "features": ["Real-time Analytics", "Custom Visualizations", "Data Integration", "Performance Monitoring"]
-    },
-    "consulting": {
-      "title": "AI Consulting",
-      "description": "Strategic consulting services to help you identify AI opportunities and develop implementation roadmaps.",
-      "features": ["AI Strategy", "Technology Assessment", "Implementation Planning", "ROI Analysis"]
-    },
-    "support": {
-      "title": "Support & Maintenance",
-      "description": "Ongoing support and maintenance services to ensure your AI solutions continue to perform optimally.",
-      "features": ["24/7 Support", "Regular Updates", "Performance Optimization", "Training & Documentation"]
-    },
-    "process": {
-      "title": "Our Development Process",
-      "desc": "A proven methodology that ensures successful delivery of your AI solutions.",
-      "step1": "Discovery & Analysis",
-      "step1Desc": "We analyze your business needs and identify AI opportunities.",
-      "step2": "Strategy & Planning",
-      "step2Desc": "Develop a comprehensive implementation strategy and roadmap.",
-      "step3": "Development & Testing",
-      "step3Desc": "Build and rigorously test your custom AI solution.",
-      "step4": "Deployment & Support",
-      "step4Desc": "Deploy your solution and provide ongoing support and optimization."
-    },
-    "tech": {
-      "title": "Technologies We Master",
-      "desc": "We leverage the latest technologies and frameworks to build robust, scalable solutions."
-    },
-    "cta": {
-      "title": "Ready to Get Started?",
-      "desc": "Let's discuss your project and explore how our AI solutions can transform your business.",
-      "button": "Start Your Project"
-    }
+    "description": "Explore our full range of services, from custom SaaS platform development to intelligent dashboards and AI consulting."
   },
   "portfolio": {
-    "title": "Our Portfolio",
-    "subtitle": "Showcasing Our Success Stories",
-    "description": "Discover how we've helped businesses across various industries transform their operations with cutting-edge AI solutions and innovative software development.",
-    "categories": {
-      "all": "All",
-      "education": "Education",
-      "hr": "HR Tech",
-      "finance": "Finance",
-      "healthcare": "Healthcare",
-      "logistics": "Logistics",
-      "analytics": "Analytics"
-    },
-    "project1": {
-      "title": "Smart Assessment Platform",
-      "description": "An AI-powered testing and assessment platform for the education sector, automating evaluations.",
-      "tech": "AI/ML, React, Node.js, Python"
-    },
-    "project2": {
-      "title": "AI-Powered Job Portal",
-      "description": "A custom job portal with AI-driven candidate matching and resume parsing features.",
-      "tech": "NLP, React, Python, AWS"
-    },
-    "project3": {
-      "title": "Automated Trading Platform",
-      "description": "AI-driven financial trading and risk management system for investment firms.",
-      "tech": "Deep Learning, Python, React"
-    },
-    "project4": {
-      "title": "Healthcare Diagnostics AI",
-      "description": "Medical imaging analysis with computer vision to assist in early disease detection.",
-      "tech": "Computer Vision, TensorFlow, React"
-    },
-    "project5": {
-      "title": "Supply Chain Optimizer",
-      "description": "Intelligent logistics and inventory management system using optimization algorithms.",
-      "tech": "Optimization AI, React, Node.js"
-    },
-    "project6": {
-      "title": "Retail Analytics Dashboard",
-      "description": "AI-powered analytics platform for retail chain optimization and sales forecasting.",
-      "tech": "Machine Learning, React, Python"
-    },
-    "viewLive": "View Live",
-    "techUsed": "Technologies",
-    "metrics": {
-      "title": "Project Success Metrics",
-      "desc": "Real results from our AI implementations across different industries.",
-      "efficiency": "Average Efficiency Increase",
-      "cost": "Cost Reduction",
-      "satisfaction": "Client Satisfaction",
-      "roi": "ROI Improvement"
-    },
-    "cta": {
-      "title": "Ready to Join Our Success Stories?",
-      "desc": "Let's create the next breakthrough AI solution for your business.",
-      "button": "Start Your Project"
-    }
+    "title": "Our Projects",
+    "description": "See how DeepSightX has delivered innovative and scalable digital solutions across industries like education, finance, healthcare, and more."
+  }
+},
+
+  
+  "about": {
+  "title": "Who We Are",
+  "subtitle": "Your Partner for Smart Web & SaaS Solutions",
+  "description": "DeepSightX is a specialized software company focused on building custom web platforms and SaaS applications. We help businesses go digital with scalable and intelligent solutions, tailored to solve real-world challenges.",
+  "mission": "Our Mission",
+  "missionText": "To empower businesses with modern, scalable, and AI-enhanced software solutions using the latest in web technology and artificial intelligence.",
+  "vision": "Our Vision",
+  "visionText": "To be the go-to partner for businesses seeking flexible and practical digital tools that drive real impact and measurable results.",
+  "values": "Our Values",
+  "valuesDesc": "The principles that shape every decision we make and every line of code we write.",
+  "innovation": "Innovation",
+  "innovationText": "We believe in practical innovation that directly serves our clients' goals.",
+  "excellence": "Excellence",
+  "excellenceText": "We commit to high standards—in code, design, and communication.",
+  "collaboration": "Collaboration",
+  "collaborationText": "We work closely with our clients to understand and bring their vision to life.",
+  "team": "Our Team",
+  "teamDesc": "A diverse group of web engineers and AI developers with a shared passion for building smart and effective solutions.",
+  "stats": {
+    "experience": "Years of Experience",
+    "members": "Team Members",
+    "countries": "Countries Served",
+    "delivered": "Projects Delivered"
+  }
+  },
+  
+"services": {
+  "title": "Our Services",
+  "subtitle": "Smart Web & SaaS Solutions with AI Capabilities",
+  "description": "We provide a range of development services tailored for companies seeking digital transformation—from custom SaaS platforms to AI integrations and smart analytics tools.",
+  "aiIntegration": {
+    "title": "AI Integration",
+    "description": "We integrate technologies like OpenAI, LangChain, and custom AI models into your systems to enhance performance and user experience.",
+    "features": ["Smart Language Models", "Content Analysis", "Process Automation", "Decision Support"]
+  },
+  "customSoftware": {
+    "title": "Custom Web Application Development",
+    "description": "We build robust web apps using MERN Stack and Python tailored to your business needs.",
+    "features": ["Flexible SaaS Applications", "Admin Dashboards", "Modern User Interfaces", "High Performance & Security"]
+  },
+  "assessmentPlatform": {
+    "title": "Intelligent Assessment Platforms",
+    "description": "Smart platforms for the education sector featuring automated testing and performance analytics.",
+    "features": ["AI-Powered Tests", "Skill Gap Analysis", "Personalized Learning Paths", "Secure Monitoring"]
+  },
+  "dashboards": {
+    "title": "Data Dashboards & Analytics",
+    "description": "Real-time data visualization systems with advanced customization and integration features.",
+    "features": ["Live Reporting", "Interactive Visualizations", "Performance Insights", "Decision-Making Support"]
+  },
+  "consulting": {
+    "title": "AI Strategy Consulting",
+    "description": "Strategic consulting services to help you identify AI opportunities and build a clear implementation roadmap.",
+    "features": ["AI Roadmapping", "Technology Evaluation", "Execution Planning", "ROI Analysis"]
+  },
+  "support": {
+    "title": "Ongoing Support & Maintenance",
+    "description": "We provide post-launch support to ensure your digital systems remain effective and optimized.",
+    "features": ["Scheduled Maintenance", "Continuous Improvements", "Technical Support", "Tech Advisory"]
+  },
+  "process": {
+    "title": "Our Development Process",
+    "desc": "A proven methodology to ensure successful delivery of custom AI-enhanced software solutions.",
+    "step1": "Discovery & Analysis",
+    "step1Desc": "We analyze your business needs and identify areas for AI enhancement.",
+    "step2": "Strategy & Planning",
+    "step2Desc": "We define an execution strategy and prepare a clear roadmap.",
+    "step3": "Development & Testing",
+    "step3Desc": "We build and rigorously test your tailored solution.",
+    "step4": "Deployment & Support",
+    "step4Desc": "We launch your system and provide ongoing support for growth."
+  },
+  "tech": {
+    "title": "Technologies We Use",
+    "desc": "We rely on modern frameworks and tools to deliver scalable, high-quality results—including React, Node.js, Django, Flask, OpenAI, and Docker."
+  },
+  "cta": {
+    "title": "Have a project idea?",
+    "desc": "Let’s help you bring it to life with a smart digital product tailored to your goals.",
+    "button": "Start Your Project"
+  }
+  },
+  
+  "portfolio": {
+  "title": "Our Work",
+  "subtitle": "We Build Solutions That Make an Impact",
+  "description": "We help businesses modernize their digital infrastructure through custom web platforms and intelligent AI integrations across various industries.",
+  "categories": {
+    "all": "All",
+    "education": "Education",
+    "hr": "Human Resources",
+    "finance": "Finance",
+    "healthcare": "Healthcare",
+    "logistics": "Logistics",
+    "analytics": "Analytics"
+  },
+  "project1": {
+    "title": "Educational Assessment Platform",
+    "description": "An intelligent testing system for students that uses automated analysis and skill gap detection.",
+    "tech": "React, Node.js, Python, AI/ML"
+  },
+  "project2": {
+    "title": "Smart Hiring System",
+    "description": "An AI-powered recruitment platform with resume parsing and candidate matching features.",
+    "tech": "NLP, React, Python, AWS"
+  },
+  "project3": {
+    "title": "Financial Trading Platform",
+    "description": "An AI-driven trading system for market prediction and risk management.",
+    "tech": "Deep Learning, Python, React"
+  },
+  "project4": {
+    "title": "AI Medical Diagnostics",
+    "description": "A medical image analysis tool using computer vision for early disease detection.",
+    "tech": "Computer Vision, TensorFlow, React"
+  },
+  "project5": {
+    "title": "Smart Logistics System",
+    "description": "An AI-enhanced supply chain and inventory management system.",
+    "tech": "Optimization AI, Node.js, React"
+  },
+  "project6": {
+    "title": "Retail Analytics Dashboard",
+    "description": "A real-time analytics platform for forecasting demand and optimizing retail performance.",
+    "tech": "Machine Learning, React, Python"
+  },
+  "viewLive": "View Live",
+  "techUsed": "Technologies Used",
+  "metrics": {
+    "title": "Real Impact from Our Solutions",
+    "desc": "Our work helps companies increase efficiency, reduce costs, and boost ROI.",
+    "efficiency": "Efficiency Boost",
+    "cost": "Cost Reduction",
+    "satisfaction": "Client Satisfaction",
+    "roi": "Improved ROI"
+  },
+  "cta": {
+    "title": "Ready for Your Next Project?",
+    "desc": "Let us help you build the next smart solution to take your business forward.",
+    "button": "Start Your Project"
+  }
   },
   "contact": {
-    "title": "Contact Us",
-    "subtitle": "Let's Build Something Amazing Together",
-    "description": "Ready to transform your business with AI? Get in touch with our team to discuss your project and discover how we can help you achieve your goals.",
-    "form": {
-      "title": "Send us a message",
-      "name": "Full Name",
-      "email": "Email Address",
-      "company": "Company Name",
-      "subject": "Subject",
-      "message": "Message",
-      "send": "Send Message",
-      "sending": "Sending...",
-      "success": "Message sent successfully! We'll get back to you soon.",
-      "error": "Failed to send message. Please try again."
-    },
-    "info": {
-      "title": "Get in touch",
-      "desc": "We're here to help you transform your business with AI. Reach out to us through any of the following channels.",
-      "email": "info@deepsightx.com",
-      "emailDesc": "Send us an email anytime",
-      "phone": "--",
-      "phoneDesc": "Mon-Fri from 8am to 5pm",
-      "address": "Cairo, Egypt",
-      "addressDesc": "Come say hello at our HQ",
-      "hours": "Business Hours",
-      "hours1": "Monday - Friday:",
-      "hours2": "Saturday:",
-      "hours3": "Sunday:",
-      "closed": "Closed",
-      "presence": "Global Presence",
-      "presenceDesc": "We provide our services to clients across the globe. Remote consultations are available regardless of your location or time zone."
-    },
-    "map": {
-      "title": "Find Us",
-      "desc": "Visit our headquarters or schedule a virtual meeting",
-      "placeholder": "Interactive Map",
-      "placeholderDesc": "Map integration would be implemented here"
-    }
+  "title": "Contact Us",
+  "subtitle": "Let’s Build Something Amazing Together",
+  "description": "Have an idea or a project in mind? The DeepSightX team is ready to help you build advanced digital solutions powered by AI.",
+  "form": {
+    "title": "Send Us a Message",
+    "name": "Full Name",
+    "email": "Email Address",
+    "company": "Company Name",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Your message has been sent! We'll get back to you shortly.",
+    "error": "Failed to send message. Please try again."
+  },
+  "info": {
+    "title": "Get in Touch",
+    "desc": "Reach out through any of the following channels — we’re happy to assist you.",
+    "email": "info@deepsightx.com",
+    "emailDesc": "Official support and inquiries email",
+    "phone": "--",
+    "phoneDesc": "Available Monday to Friday, 8AM – 5PM",
+    "address": "Cairo, Egypt",
+    "addressDesc": "Visit us at our main office",
+    "hours": "Business Hours",
+    "hours1": "Monday – Friday:",
+    "hours2": "Saturday:",
+    "hours3": "Sunday:",
+    "closed": "Closed",
+    "presence": "Global Reach",
+    "presenceDesc": "We serve clients worldwide. Remote consultations are available across all time zones."
+  },
+  "map": {
+    "title": "Find Us Here",
+    "desc": "Visit our headquarters or schedule a virtual meeting",
+    "placeholder": "Interactive Map",
+    "placeholderDesc": "Map integration will be implemented here"
+  }
   },
   "footer": {
-    "description": "Leading AI solutions provider transforming businesses worldwide with intelligent technology and innovative software development.",
+  "description": "DeepSightX is a software development company specializing in building custom web solutions and SaaS platforms. We help businesses grow by integrating modern web technologies and AI-powered features that improve performance and user experience.",
     "quickLinks": "Quick Links",
     "services": "Services",
     "contact": "Contact Info",
